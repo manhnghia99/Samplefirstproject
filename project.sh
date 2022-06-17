@@ -1,1 +1,1 @@
-echo "this is frist project test 3"
+echo "project kiem tra lan 3"
